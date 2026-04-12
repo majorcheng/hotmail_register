@@ -1,6 +1,16 @@
 # Outlook / Hotmail 注册脚本
 
-本仓库用于管理 `hotmail_register.py` 脚本及其说明文档。仓库策略为：**只追踪脚本文件、`README.md` 和 `.gitignore`**，运行生成物、日志、账号输出文件和虚拟环境均不纳入版本控制。
+本仓库用于管理 `hotmail_register.py` 脚本及其说明文档。仓库策略为：**只追踪脚本文件、仓库说明文件和许可证文件**，运行生成物、日志、账号输出文件和虚拟环境均不纳入版本控制。
+
+## 许可证
+
+本仓库采用 **PolyForm Noncommercial 1.0.0** 许可证发布：
+
+- 允许学习、研究、测试和非商业用途使用
+- **禁止商业用途**
+- 详见根目录 `LICENSE`
+
+说明：该许可属于**公开源码 / source-available**，不是 OSI 定义下的传统开源许可证。
 
 ## 当前目录结构
 
@@ -8,6 +18,7 @@
 .
 ├─ hotmail_register.py   # 主脚本
 ├─ README.md             # 使用说明
+├─ LICENSE               # 非商用许可证
 └─ .gitignore            # Git 忽略规则
 ```
 

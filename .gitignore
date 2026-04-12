@@ -3,6 +3,8 @@
 !*/
 !.gitignore
 !README.md
+!LICENSE
+!LICENSE.*
 
 # 允许追踪的脚本文件
 !*.py
