@@ -127,3 +127,6 @@ python .\hotmail_register.py --count 5 --delay 30
 - `reg_*.png`：异常或调试截图
 
 以上文件默认不追踪。
+
+## 友链
+https://linux.do/
